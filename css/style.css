@@ -100,7 +100,7 @@ margin: 0.5em;
 .mv-area {
   height: 100vh;
   margin-left: 200px;
-  background: url(/img/mv-bg@2x.jpg);
+  background: url(/img/mv-bg@2x.jpg) center center no-repeat;
   background-size: cover;
   position: relative;
 }
